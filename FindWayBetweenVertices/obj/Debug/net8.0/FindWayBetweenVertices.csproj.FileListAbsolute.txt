@@ -1,0 +1,14 @@
+/Users/ROBIK/Desktop/С#/FindWayBetweenVertices/FindWayBetweenVertices/bin/Debug/net8.0/FindWayBetweenVertices
+/Users/ROBIK/Desktop/С#/FindWayBetweenVertices/FindWayBetweenVertices/bin/Debug/net8.0/FindWayBetweenVertices.deps.json
+/Users/ROBIK/Desktop/С#/FindWayBetweenVertices/FindWayBetweenVertices/bin/Debug/net8.0/FindWayBetweenVertices.runtimeconfig.json
+/Users/ROBIK/Desktop/С#/FindWayBetweenVertices/FindWayBetweenVertices/bin/Debug/net8.0/FindWayBetweenVertices.dll
+/Users/ROBIK/Desktop/С#/FindWayBetweenVertices/FindWayBetweenVertices/bin/Debug/net8.0/FindWayBetweenVertices.pdb
+/Users/ROBIK/Desktop/С#/FindWayBetweenVertices/FindWayBetweenVertices/obj/Debug/net8.0/FindWayBetweenVertices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ROBIK/Desktop/С#/FindWayBetweenVertices/FindWayBetweenVertices/obj/Debug/net8.0/FindWayBetweenVertices.AssemblyInfoInputs.cache
+/Users/ROBIK/Desktop/С#/FindWayBetweenVertices/FindWayBetweenVertices/obj/Debug/net8.0/FindWayBetweenVertices.AssemblyInfo.cs
+/Users/ROBIK/Desktop/С#/FindWayBetweenVertices/FindWayBetweenVertices/obj/Debug/net8.0/FindWayBetweenVertices.csproj.CoreCompileInputs.cache
+/Users/ROBIK/Desktop/С#/FindWayBetweenVertices/FindWayBetweenVertices/obj/Debug/net8.0/FindWayBetweenVertices.dll
+/Users/ROBIK/Desktop/С#/FindWayBetweenVertices/FindWayBetweenVertices/obj/Debug/net8.0/refint/FindWayBetweenVertices.dll
+/Users/ROBIK/Desktop/С#/FindWayBetweenVertices/FindWayBetweenVertices/obj/Debug/net8.0/FindWayBetweenVertices.pdb
+/Users/ROBIK/Desktop/С#/FindWayBetweenVertices/FindWayBetweenVertices/obj/Debug/net8.0/FindWayBetweenVertices.genruntimeconfig.cache
+/Users/ROBIK/Desktop/С#/FindWayBetweenVertices/FindWayBetweenVertices/obj/Debug/net8.0/ref/FindWayBetweenVertices.dll
